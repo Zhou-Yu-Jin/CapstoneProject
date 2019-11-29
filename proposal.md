@@ -1,8 +1,8 @@
 # 顶点课程报告提纲
 
-* 论文题目：传播学的人工智能和大数据探讨：基于Web of Science 数据库的系统文献回顾
+* 论文题目：传播学的人工智能和大数据探讨：基于Web of Science 数据库的系统文献回顾（Artificial intelligence and big data in communication: systematic literature review based on Web of Science database)
 * 姓名: 周昱瑾
-* 序号: E1
+* 序号: R传
 <!--more-->
 
 ## 设计/论文题亮点
