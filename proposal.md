@@ -25,7 +25,7 @@
 ## 二丶中英文摘要与关键词
 
 ### 摘要
-> 人工智能、大数据、机器学习等新技术的引入，在传播学领域发挥了重要的作用。这些新技术促使传统媒体逐渐转型，带来了巨大的社会变革。普遍承认的是，技术赋予人们更多的权利，比如由接受者变为传播者。但事实上，技术也剥夺了人们很多权利，这或许正是新媒体时代下，问题层出不穷的根源所在。摘要通过对WEB of SCIENCE网站近40年来收录的620份核心期刊进行科学定量分析，介绍了该领域的主要期刊、作者、出版物和新兴研究课题。同时，运用系统的思维对研究结果进行分析，发现这一领域的研究在过去的三年中出现了爆发式的增长。然而，随之暴露的是越来越多的问题，人们的态度也愈发悲观。从研究来看，人们似乎一直从技术的角度来看待这些问题，技术引发问题，再以新技术来修正，如此往复，印证了莱文森所提出的媒介演进理论，而忽视了在此过程中人类自身的变化。本文旨在为媒体转型的研究人员、投资机构和政府提供了一个未来的研究方向以供参考。
+> 人工智能、大数据等新技术的引入，给媒体的智能化进程注入了源源不断的动力。媒体的智能化，一方面消弭了传统传媒业的边界，另一方面正在重塑传媒业的原有生态，带来传播学研究领域的巨大变革。本文通过对来自WOS数据库中收录的620篇文章进行科学计量分析，总结了1969年以来的年度趋势、主要研究机构、出版渠道以及内容关键词等，旨在对该领域的文献进行系统的综述。研究结果表明，近年来，有关传播学这一新兴学科的人工智能和大数据应用研究呈指数级增长，以英国和美国为代表的西方发达国家研究贡献突出。同时通过研究可以发现，技术威胁论在该研究领域尤为突出，伦理问题，数据隐私等问题一直是研究焦点。总之，这篇文章脉络清晰地梳理了目前传播学领域的最前沿的研究和发展方向，可以为政府，媒体转型研究人员以及投资机构提供有价值的参考，为以中国为代表的东方国家寻找智能时代传播发展的契机。
 
 
 ### Abstract
@@ -40,32 +40,49 @@
 
 ### 1丶[[C]]理论及[[A]]专业建构物演进过程及[[M]]使用的方法数据
 
-> 1-2句话总结3-4来源内容
+收集来自Web Of Science数据库的文献，我们设计了如下的查询设计
+•	TS = (artificial intelligence OR big data OR machine learning ) AND SU = Communication 
+我们的查询要素包括例如“人工智能”，“大数据”等，旨在寻找到传播学领域的相关研究，在2019年11月共查询获得620篇文章，使用VOSviewer 进行可视化呈现，并由此展开后续分析。
 
 ### 2丶国外研究综述
 
-> 1-2句话总结3-4来源内容
+人工智能、大数据的发展已经抓住公众的想象力，并深刻地影响着社会、经济和政治领域，带来了传播学领域的大变革。比如：社交媒体的兴起赋予公众自由发声的权利，促进舆论的形成和传播；互联网的无界性创新国际传播新形态，政治传播议题多样化等等。但是，人类在迈向数字时代的进程中，问题同样层出不穷，大数据爆炸、公民教育及消费者权利等问题皆引发广泛的社会讨论，近年也有过研究这类问题的文献综述。
 
-### 3丶国内研究综述
 
-> 1-2句话总结3-4来源内容
+### 3丶本人对以上综述的评价
 
-### 4丶本人对以上综述的评价
+已有文献中的大多数着重于传播学中的一个特定领域进行研究，如人机交互的未来教育模式、组织传播中的绩效评估等，[4]就研究范围来说，它们都不够全面，因此，研究人工智能和大数据应用于传播学领域的发展现状及未来趋势，综合考虑目前国际上的主要研究机构，研究重点及各国间的传播差异是至关重要的。
 
-> 1-2句话总结3-4来源内容
 
-> 说明：开题时需要10篇引用文献，建议上述1-3每项只要一句话总结各3-4来源内容就可以
 
 
 ## 四丶参考文献
 
-> 中文文档及文献书写格式要按国家标准GB/7714－87或ACM SIGCHI格式规定，英文文档及文献要按APA或ACM SIGCHI格式规定。务必要设置好Zotero及Word Plugin。
+[1]	 Elish, M., boyd,  danah (2017) Situating methods in the magic of Big Data and AI. Commun. Monogr. 1–24.
+
+[2]	 Li, J., Xu, L., Tang, L., Wang, S., Li, L. (2018) Big data in tourism research: A literature review. Tour. Manag. 68: 301–23.
+
+[3]	 Basar Gezgin, U. (2019) Data Activism: Reviving, Extending and Upgrading Critical Citizenship Education and Consumer Rights Movements. Connect. Istanb. Univ. J. Commun. Sci. 67–86.
+
+[4]	 Gordon, M., Stewart, L. (2009) Conversing About Performance: Discursive Resources for the Appraisal Interview. Manag. Commun. Q. - MANAG COMMUN Q 22: 473–501.
+
+[5]	 Shorey, S., Howard, P. (2016) Automation, Big Data, and Politics: A Research Review. Int. J. Commun. 10: 5032–55.
+
+[6]	 Coddington, Mark (2015) Clarifying Journalism’s Quantitative Turn. Digit. Journal. 3: 331–48.
+
+[7]	 Boyd, D., Crawford, K. (2012) Critical questions for big data: Provocations for a cultural, technological, and scholarly phenomenon. Inf. Tarsadalom 15: 662–79.
+
+[8]	 Russell Neuman, W., Guggenheim, L., Mo Jang, S., Bae, S.Y. (2014) The Dynamics of Public Attention: Agenda-Setting Theory Meets Big Data. J. Commun. 64: 193–214.
+
+
 
 
 ## 五丶研究条件和可能存在的问题
 > 说明：学生自我评估，若没问题而被教师提问发现有重大研究条件及问题者，需要进行协助同学解决问题的社会服务。
 
 ## 六丶进度安排
+> 说明：管理好时间和任务乃重要应用能力，必需要有优先级排序丶串行和并行。必需要有合理的[甘特图](https://www.mindtheproduct.com/tame-your-roadmap/)
+
 > 工具建议：[Mermaidjs](https://mermaidjs.github.io/mermaid-live-editor/)可下载SVG
 
 
